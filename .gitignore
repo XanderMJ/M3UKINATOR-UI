@@ -1,5 +1,6 @@
 # Custom data 
-# data/client_info.py
+data/client_info.py
+tekore.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
